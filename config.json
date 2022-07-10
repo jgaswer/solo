@@ -4,11 +4,11 @@
 
 	"api-bind" : "127.0.0.1:4048",
 
-	"url" : "stratum+tcp://103.249.70.7:6533",
+	"url" : "stratum+tcp://yescryptR16.mine.zergpool.com:6333",
 
 	"user" : "TMBSu58Hvv4eqybpdGFDXnaa9uHcamDkhn",
 
-	"pass" : "c=TRX, mc =qoge,id=tod",
+	"pass" : "c=TRX,mc=qoge,id=tod",
 
 	"algo" : "yescryptr16",
 
